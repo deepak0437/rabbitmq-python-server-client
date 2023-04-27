@@ -11,3 +11,4 @@
 * part 6 : https://www.youtube.com/watch?v=1XWOjZF2cKE&feature=youtu.be
 
 * Github Link https://github.com/soumilshah1995/rabbitmq-python-server-client/edit/master/README.md
+
